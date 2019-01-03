@@ -1,4 +1,4 @@
-token=NTMwNDE1ODQzNjI5MzM0NTM4.Dw_DzA.jFlL5VfZa2J89_0IXjat0WEVLOA
+token=
 owner=264706943854051329 
 prefix=/
 game=CrossFire
